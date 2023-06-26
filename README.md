@@ -12,4 +12,4 @@ upto six headings can put
 **Bold text**
 normal text
 
-Italics
+_Italics_
